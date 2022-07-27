@@ -1,3 +1,3 @@
-# Hillshade-1m-Devon
+# Hillshade-1m-Devon-West
 
-Demo: https://geoffrowland.github.io/Hillshade-1m-Devon/
+Demo: https://geoffrowland.github.io/Hillshade-1m-Devon-West/
